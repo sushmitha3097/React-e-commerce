@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+
+ .bgimage{
+    background-image: url("../../public/image/img1.png")  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    overflow: hidden;
+    height: 45vw;
+}
+
+.container {
+       margin: 200px;
+       padding: 30px;
+       background-color: rgb(250, 170, 141);
+       border-radius: 20px;
+       width: 25vw;
+}
+
+
+.inputStyle {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+.btn {
+    background-color: #cacecc;
+    color: black;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    margin: 17px 0 20px 0;
+    font-size: large;
+}
+
+.btn:hover {
+    opacity: 0.5;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+
+}
+
+#header-text{
+    color: #CD104D;
+}

@@ -1,0 +1,24 @@
+.disp{
+    display: inline-block;
+    flex-direction: row;
+    margin: 30px;
+   
+    /* display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px; */
+}
+
+.displ{
+    background-image: url("../../../public/image/back.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgb(247, 242, 235); */
+}
+
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(78, 78, 170);
+    font-style: oblique;
+    font-weight: bold;
+    padding-top: 10px;
+}

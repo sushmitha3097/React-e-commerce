@@ -1,0 +1,23 @@
+.title{
+    height: 88px;
+    background-color: rgb(211, 199, 199);
+    /* display: flex; */
+    width: 100% !important;
+}
+
+.profile{
+    font-size: smaller;
+    margin-left: 40px;
+}
+.icon{
+    margin-left: 10px;
+}
+
+.category{
+    display: inline-flex !important;
+    width: 70% !important;
+}
+
+.menuIcon{
+    margin-left: 15px;
+}
